@@ -1,0 +1,7 @@
+   employee_id   name  age   salary department        city  salary_per_year
+0            1   Amit   30    45000         IT      Mysuru           540000
+1            2  Surya   20    43000         HR   Bangalore           516000
+2            3  Surya   23    15000         IT  Bhadravati           180000
+3            4  Navya   30    43000         HR   Mangalore           516000
+4            5  Bindu   40  1200000         HR      Koppal         14400000
+5            6  Bindu   40    20000         EC      Koppal           240000

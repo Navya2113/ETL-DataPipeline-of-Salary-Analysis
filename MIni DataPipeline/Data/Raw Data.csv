@@ -1,0 +1,8 @@
+employee_id,name,age,salary,department,city
+1,Amit,30,45000,IT,Mysuru
+2,Surya,20,43000,HR,Bangaluru
+3,Surya,23,15000,IT,Bhadravati
+4,Navya,,,HR,Manglore
+5,Bindu,40,1200000,,Kopla
+6,Bindu,40,20000,EC,Kopla
+6,Bindu,40,20000,EC,Kopla
